@@ -16,6 +16,7 @@ React has been designed for gradual adoption from the start, and **you can use a
 * [Add React to an Existing Project](https://react.dev/learn/add-react-to-an-existing-project) to use as little or as much React as you need.
 * [Create a New React App](https://react.dev/learn/start-a-new-react-project) if you're looking for a powerful JavaScript toolchain.
 
+
 ## Documentation
 
 You can find the React documentation [on the website](https://react.dev/).  
